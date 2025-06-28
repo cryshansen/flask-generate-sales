@@ -62,4 +62,5 @@ To create believable and varied weekly photography sales data, supporting analyt
 ## 📄 Output File
 
 The generated data is saved to:
-
+root folder
+Can adjust as necessary for simplicity it is bundled as is. 
